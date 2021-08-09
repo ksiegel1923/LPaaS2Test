@@ -1,0 +1,51 @@
+{
+  "title": "[es] Project Title",
+  "agency": {
+    "longformName": "[es] NYC Mayor's Office of the Chief Technology Officer",
+    "shortformName": "[es] NYC CTO"
+  },
+  "location": "[es] NYC",
+  "header": {
+    "banner": "[es] An official website of New York City government",
+    "language": "[es] Language",
+    "nav": {
+      "dropdowns": [
+        {
+          "label": "[es] Nav Label 1",
+          "simpleLinks": ["[es] Simple link one", "[es] Simple link two"]
+        },
+        {
+          "label": "[es] Nav Label 2",
+          "simpleLinks": ["[es] Simple link three", "[es] Simple link four"]
+        }
+      ],
+      "menu": "[es] Menu",
+      "parentLinks": ["[es] Parent link"]
+    }
+  },
+  "footer": {
+    "returnToTop": "[es] Return to top",
+    "primaryLinks": [
+      "[es] Primary Link 1",
+      "[es] Primary Link 2",
+      "[es] Primary Link 3",
+      "[es] Primary Link 4"
+    ],
+    "copyright": "[es] © 2021 City of New York. All Rights Reserved.",
+    "trademark": "[es] NYC is a trademark and service mark of the City of New York.",
+    "terms": "[es] NYC Terms of Use",
+    "privacy": "[es] NYC Privacy Policy",
+    "secondary": {
+      "heading": {
+        "logo": "[es] Name of Agency",
+        "contact": "[es] Agency Contact Center"
+      },
+      "socialLinks": ["[es] Facebook", "[es] Twitter", "[es] YouTube", "[es] Instagram", "[es] RSS"],
+      "address": {
+        "phone": "[es] (800) CALL-GOVT",
+        "email": "[es] info@agency.gov"
+      }
+    }
+  },
+  "notFound": "[es] 404: Page Not Found"
+}

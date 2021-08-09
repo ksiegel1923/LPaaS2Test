@@ -1,0 +1,20 @@
+/*
+  These are necessary for the image and font urls referenced in the source
+  files to resolve correctly.
+*/
+$theme-font-path: '../../node_modules/uswds/src/fonts';
+$theme-image-path: '../../node_modules/uswds/src/img';
+
+$theme-hero-image: '../images/hero.png';
+
+//Custom themes
+@import './custom-theme';
+
+@import 'uswds';
+
+//Class overrides and custom classes
+@import './mixins';
+@import './global';
+@import './header';
+@import './body';
+@import './footer';
